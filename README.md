@@ -3,7 +3,9 @@
 This repository contains code for facial recognition using openCV and python with a tkinter gui interface. If you want to test the code then run train.py file
 
 **Technology used :**
-* Unordered sub-list.
+* openCV (Opensource Computer Vision)
+* Python
+* tkinter GUI interface
 
 Hello guys...
 
