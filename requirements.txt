@@ -1,0 +1,8 @@
+opencv-python
+opencv-contrib-python
+cx_Freeze
+tkintertable
+pillow
+csv
+pandas
+time
