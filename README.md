@@ -22,5 +22,3 @@ Now all initial setups are done. By clicking `Track Image` button, the camera of
 Type in `pip install -U -r requirements.txt`
 
 To Start the application type in `python train.py` 
-
--S. B. John
